@@ -1,1 +1,6 @@
 .idea/
+
+.oh-otto-venv/
+.DS_Store
+.eggs/
+htmlcov/
